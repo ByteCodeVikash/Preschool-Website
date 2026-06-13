@@ -1,0 +1,307 @@
+Build a PREMIUM, MODERN, TRUST-BUILDING Preschool Website for:
+
+School Name: Kiddie Kingdom Preschool
+Tagline: Sparking Joy in Every Child
+Location: Zenda Chowk, Mahal, Nagpur, Maharashtra
+Phone Numbers:
++91 9823978442
++91 9423445442
+
+School Programs:
+• Playgroup (1.5 – 2.5 Years)
+• Nursery (2.5 – 3.5 Years)
+• LKG (3.5 – 4.5 Years)
+• UKG (4.5 – 5.5 Years)
+
+Brand Personality:
+Warm, Caring, Trustworthy, Modern, Child-Friendly, Professional
+
+IMPORTANT:
+Do NOT make it look like a cheap preschool template.
+It should look like a premium private school website that immediately builds trust with parents.
+
+======================================================
+DESIGN REQUIREMENTS
+======================================================
+
+Create a bright, premium and modern UI.
+
+Color Palette:
+Primary: #4F46E5
+Secondary: #F97316
+Accent: #22C55E
+Background: #FFFFFF
+Soft Background: #F8FAFC
+
+Use:
+• Smooth animations
+• Rounded cards
+• Floating illustrations
+• Soft shadows
+• Responsive design
+• Modern typography
+• High quality preschool imagery
+• Professional spacing
+
+Website must score high on:
+• Trust
+• Professionalism
+• Parent Conversion
+• Mobile Experience
+
+======================================================
+HEADER
+======================================================
+
+Sticky Header
+
+Logo on left
+
+Menu:
+Home
+About Us
+Programs
+Why Choose Us
+Gallery
+Testimonials
+Contact
+
+Buttons:
+Admissions Open
+Call Now
+
+======================================================
+HERO SECTION
+======================================================
+
+Large premium hero section.
+
+Headline:
+
+"Where Little Dreams Begin"
+
+Subheadline:
+
+At Kiddie Kingdom Preschool, we nurture curiosity,
+confidence, creativity and joyful learning in a safe
+and caring environment.
+
+Buttons:
+Enroll Now
+Book School Visit
+
+Hero image:
+Happy children learning and playing.
+
+Add floating stats cards:
+
+100+ Happy Students
+Experienced Teachers
+Safe Environment
+Play Based Learning
+
+======================================================
+WHY CHOOSE US
+======================================================
+
+Create premium feature cards:
+
+1. Safe & Caring Environment
+Warm and hygienic atmosphere where children feel loved.
+
+2. Play-Based Learning
+Learning through fun activities and exploration.
+
+3. Experienced Teachers
+Qualified and caring educators.
+
+4. Holistic Development
+Intellectual, emotional, social and creative growth.
+
+5. Parent Partnership
+Regular communication and involvement with parents.
+
+6. Strong Foundation
+Preparing children for lifelong learning success.
+
+Use beautiful icons and hover effects.
+
+======================================================
+ABOUT SECTION
+======================================================
+
+Title:
+A Perfect Start For A Bright Future
+
+Content:
+
+At Kiddie Kingdom Preschool, we believe every child
+is unique. Our mission is to create a nurturing,
+engaging and joyful learning environment where
+young minds develop confidence, creativity and
+essential life skills.
+
+Add image collage.
+
+======================================================
+PROGRAMS SECTION
+======================================================
+
+Create premium program cards.
+
+Playgroup
+Age: 1.5 - 2.5 Years
+
+Nursery
+Age: 2.5 - 3.5 Years
+
+LKG
+Age: 3.5 - 4.5 Years
+
+UKG
+Age: 4.5 - 5.5 Years
+
+Each card should include:
+• Age group
+• Learning activities
+• Visual icon
+• Learn More button
+
+======================================================
+LEARNING ACTIVITIES
+======================================================
+
+Create attractive activity cards:
+
+Art & Craft
+Music & Dance
+Story Telling
+Indoor Games
+Outdoor Play
+Creative Learning
+Phonics
+Numbers & Shapes
+
+======================================================
+GALLERY
+======================================================
+
+Modern masonry gallery.
+
+Categories:
+Classroom
+Activities
+Celebrations
+Events
+Learning Time
+
+Add image zoom effect.
+
+======================================================
+PARENT TESTIMONIALS
+======================================================
+
+Create professional testimonial slider.
+
+Include:
+5 star ratings
+Parent photos
+Trust-building reviews
+
+Example:
+
+"Kiddie Kingdom has transformed my child's confidence and communication skills."
+
+======================================================
+ADMISSION OPEN SECTION
+======================================================
+
+Create high-converting CTA section.
+
+Headline:
+Admissions Open For Academic Session
+
+Text:
+Limited Seats Available
+
+Buttons:
+Apply Now
+Call School
+
+Add urgency badge:
+"Enroll Today"
+
+======================================================
+CONTACT SECTION
+======================================================
+
+School Address:
+Zenda Chowk, Mahal, Nagpur
+
+Phone:
+9823978442
+9423445442
+
+Include:
+Google Map
+Contact Form
+WhatsApp Button
+
+Form Fields:
+Parent Name
+Mobile Number
+Child Age
+Program Interested In
+Message
+
+======================================================
+FOOTER
+======================================================
+
+Logo
+Quick Links
+Programs
+Contact Info
+Social Links
+
+Copyright:
+© Kiddie Kingdom Preschool. All Rights Reserved.
+
+======================================================
+EXTRA FEATURES
+======================================================
+
+Add:
+
+✓ Floating WhatsApp Button
+✓ Click To Call Button
+✓ Scroll To Top Button
+✓ Admission Inquiry Popup
+✓ Gallery Lightbox
+✓ SEO Optimized
+✓ Fast Loading
+✓ Mobile First Design
+✓ Accessibility Support
+
+======================================================
+TECHNICAL
+======================================================
+
+Build using:
+Next.js 15
+TypeScript
+Tailwind CSS
+Framer Motion
+
+Use reusable components.
+
+Create:
+Home Page
+About Page
+Programs Page
+Gallery Page
+Contact Page
+
+Use modern animations but keep performance optimized.
+
+The final result should look like a premium preschool website worth ₹1 lakh+ custom design and capable of impressing parents immediately.

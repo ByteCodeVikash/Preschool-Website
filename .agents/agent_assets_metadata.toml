@@ -1,0 +1,62 @@
+uploads = []
+outputs = []
+
+[[generated]]
+id = "_qhVcw9-j6mtMfDsG24-Q"
+uri = "file://artifacts/kiddie-kingdom/public/images/hero.png"
+type = "image"
+title = "Hero preschool classroom"
+
+[[generated]]
+id = "N_m5q4H6RY7f0qyIN_sc1"
+uri = "file://artifacts/kiddie-kingdom/public/images/about.png"
+type = "image"
+title = "About preschool classroom"
+
+[[generated]]
+id = "cKvb4gEl-bRay1J6p7BdI"
+uri = "file://artifacts/kiddie-kingdom/public/images/teacher-1.png"
+type = "image"
+title = "Teacher Kavita Sharma"
+
+[[generated]]
+id = "PF4lXAHqHqbRy0G45IzMY"
+uri = "file://artifacts/kiddie-kingdom/public/images/teacher-2.png"
+type = "image"
+title = "Teacher Priya Nair"
+
+[[generated]]
+id = "j0J-EblrKfbucuiU2Aied"
+uri = "file://artifacts/kiddie-kingdom/public/images/teacher-3.png"
+type = "image"
+title = "Teacher Anita Desai"
+
+[[generated]]
+id = "PUZiXG2yaPru-W0JbxElk"
+uri = "file://artifacts/kiddie-kingdom/public/images/gallery-1.png"
+type = "image"
+title = "Gallery art activity"
+
+[[generated]]
+id = "faWftCfi9buO2diUm1-IV"
+uri = "file://artifacts/kiddie-kingdom/public/images/gallery-2.png"
+type = "image"
+title = "Gallery outdoor play"
+
+[[generated]]
+id = "57_RVK_KszDnq9yfm9ZVM"
+uri = "file://artifacts/kiddie-kingdom/public/images/gallery-3.png"
+type = "image"
+title = "Gallery story time"
+
+[[generated]]
+id = "ut3mJYXZFLc2EQYKV8hxO"
+uri = "file://artifacts/kiddie-kingdom/public/images/gallery-4.png"
+type = "image"
+title = "Gallery music dance"
+
+[[generated]]
+id = "86f73WaASvg8rSGZgTWtu"
+uri = "file://artifacts/kiddie-kingdom/public/images/gallery-5.png"
+type = "image"
+title = "Gallery block building"
