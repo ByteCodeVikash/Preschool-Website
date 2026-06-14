@@ -1,0 +1,14 @@
+{
+  "buildCommand": "pnpm --filter @workspace/kiddie-kingdom build",
+  "outputDirectory": "artifacts/kiddie-kingdom/dist/public",
+  "rewrites": [
+    {
+      "source": "/api/(.*)",
+      "destination": "/api/index.ts"
+    },
+    {
+      "source": "/(.*)",
+      "destination": "/$1"
+    }
+  ]
+}
