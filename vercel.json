@@ -23,7 +23,7 @@
     },
     {
       "src": "/(.*)",
-      "dest": "artifacts/kiddie-kingdom/dist/public/index.html"
+      "dest": "/index.html"
     }
   ]
 }
